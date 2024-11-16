@@ -1,0 +1,21 @@
+sudo su -_goddessLucia
+sudo get upgrade
+git clone https://github.com/hrtywhy/Hanoman
+git clone https://github.com/jellybabypsi/octapus-garden
+<^>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2a
+>file
+sudo cryptsetup open /dev/sda0 <Lucia3. 2a>
+>file
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2b
+>file
+sudo cryptsetup open /dev/sda1 <Lucia3. 2b>
+>file
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3 .2c
+>file
+sudo cryptsetup open /dev/sda0 <Lucia3. 2c>
+>file
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2d
+>file
+sudo cryptsetup open /dev/sda1 <Lucia3. 2d>
+>file
