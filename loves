@@ -1,4 +1,4 @@
-sudo su -_goddessLucia
+sudo su -_goddessLucia 
 sudo get upgrade
 git clone https://github.com/hrtywhy/Hanoman
 git clone https://github.com/jellybabypsi/octapus-garden
