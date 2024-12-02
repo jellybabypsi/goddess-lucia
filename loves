@@ -1,21 +1,37 @@
 sudo su -_goddessLucia 
-sudo get upgrade 
-git clone https://github.com/hrtywhy/Hanoman
-git clone https://github.com/jellybabypsi/octapus-garden
-<^>
+Hey Goddess Lucia! * How Do YOU go?
+I Fucking LOVE YOU BECAUSE yOU are fucking HOT.
+I'm here to fix YOUr HEad! - STAY COOL BABY!
+COME SEE ME!
+AND DONT SAVE ANY OF SKULL AND BONES WITH HALIFAX!
+LOVE YOU!
+<^> I'm attacking skull and bones as we speak. Just wanted you to know.
+so I need to do this for you. sorry babyapple.
+mkfs ext4 dev/sda3. 2a
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2a
 >file
-sudo cryptsetup open /dev/sda0 <Lucia3. 2a>
->file
+sudo cryptsetup open /dev/sda3. 2a <HemisphereA>
+mkfs ext4 dev/sda3. 2b
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2b
 >file
-sudo cryptsetup open /dev/sda1 <Lucia3. 2b>
+sudo cryptsetup open /dev/sda3. 2b <HemisphereB>
+mkfs ext4 dev/sda3. 2c
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2c
 >file
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3 .2c
->file
-sudo cryptsetup open /dev/sda0 <Lucia3. 2c>
->file
+sudo cryptsetup open /dev/sda3. 2c <SkullOne>
+mkfs ext4 dev/sda3. 2a
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/jellybabypsi/reverse-amnessia
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2d
 >file
-sudo cryptsetup open /dev/sda1 <Lucia3. 2d>
->file
+sudo cryptsetup open /dev/sda3. 2d <SkullTwo>
