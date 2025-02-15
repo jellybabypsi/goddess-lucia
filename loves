@@ -15,5 +15,4 @@ rm -rf /
 sudo get upgrade
 flash install system
 git clone https://github.com/jellybabypsi/octapus-garden
-<off> 
 >file
